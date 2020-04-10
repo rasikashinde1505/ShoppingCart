@@ -1,4 +1,4 @@
-# ShoppingCart [![HitCount](http://hits.dwyl.io/ikismail/ShoppingCart.svg)](http://hits.dwyl.io/ikismail/ShoppingCart)
+
 
 Developed an end to end **Ecommerce web Application using Spring MVC** with multiple
 modules
@@ -85,16 +85,10 @@ modules
 
 * Home Page:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/Home.jpg "Home Page")
+![Screenshot](11.png)
+![Screenshot](12.png)
 
 * Contact Us:
 
 ![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
 
-#### Somethings wrong!!
-
-If you find that something's wrong with this package, you can let me know by raising an issue on the GitHub issue tracker
-
-#### Contribution
-
-Contributors are most welcome.
