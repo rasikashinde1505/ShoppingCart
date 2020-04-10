@@ -1,4 +1,4 @@
-# ShoppingCart [![HitCount](http://hits.dwyl.io/ikismail/ShoppingCart.svg)](http://hits.dwyl.io/ikismail/ShoppingCart)
+
 
 Developed an end to end **Ecommerce web Application using Spring MVC** with multiple
 modules
@@ -85,7 +85,8 @@ modules
 
 * Home Page:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/Home.jpg "Home Page")
+![Screenshot](1.png)
+![Screenshot](2.png)
 
 * Contact Us:
 
