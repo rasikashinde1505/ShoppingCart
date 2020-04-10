@@ -88,7 +88,5 @@ modules
 ![Screenshot](11.png)
 ![Screenshot](12.png)
 
-* Contact Us:
 
-![Alt text](https://github.com/ikismail/ShoppingCart/blob/master/src/main/webapp/WEB-INF/resource/images/screenshots/ContactUs.png)
 
